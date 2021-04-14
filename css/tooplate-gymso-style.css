@@ -1,8 +1,4 @@
-/*
 
-Tooplate 2119 Gymso Fitness
-
-https://www.tooplate.com/view/2119-gymso-fitness
 
 */
 
@@ -67,9 +63,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     TYPOGRAPHY              
-  -----------------------------------------*/
 
   h1,h2,h3,h4,h5,h6 {
     font-weight: var(--font-weight-thin);
@@ -173,12 +166,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
     color: var(--white-color);
   }
 
-
-
-  /*---------------------------------------
-     GENERAL               
-  -----------------------------------------*/
-
   * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -208,7 +195,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /* BG OVERLAY */
 
   .bg-overlay {
     background: var(--dark-color);
@@ -223,9 +209,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     MODAL              
-  -----------------------------------------*/
 
   .modal-content {
     padding: 2rem 3rem;
@@ -243,9 +226,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-    FEATURE          
-  -----------------------------------------*/
 
   .feature {
     background: var(--dark-color);
@@ -253,9 +233,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     MENU             
-  -----------------------------------------*/
 
   .navbar {
     background: var(--dark-color);
@@ -358,10 +335,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
     top: 8px;
   }
 
-  /*---------------------------------------
-     HERO              
-  -----------------------------------------*/
-
   .hero {
     background-image: url('../images/hero-bg.jpg');
     background-size: cover;
@@ -373,9 +346,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     CLASS               
-  -----------------------------------------*/
 
   .class-info {
     background: var(--white-color);
@@ -409,9 +379,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     SCHEDULE             
-  -----------------------------------------*/
+
 
   .schedule {
     background: var(--dark-color);
@@ -474,9 +442,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-      ABOUT & TEAM            
-  -----------------------------------------*/
+
 
   .about {
     background: var(--about-bg-color);
@@ -520,9 +486,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     CONTACT              
-  -----------------------------------------*/
 
   .webform input,
   button#submit-button {
@@ -566,9 +529,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     FOOTER              
-  -----------------------------------------*/
+  
 
   .site-footer {
     border-top: 1px solid #efebeb;
@@ -590,9 +551,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     SOCIAL ICON              
-  -----------------------------------------*/
 
   .social-icon {
     position: relative;
@@ -620,9 +578,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
 
-  /*---------------------------------------
-     RESPONSIVE STYLES              
-  -----------------------------------------*/
 
   @media screen and (max-width: 992px) {
 

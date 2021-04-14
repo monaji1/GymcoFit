@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc773252-406b-4ff9-8dee-e5ac46bf3733/deploy-status)](https://app.netlify.com/sites/stoic-ptolemy-c678f9/deploys)
